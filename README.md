@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+1. First test repo on the Complete Ruby on rails Developer course
